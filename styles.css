@@ -1,0 +1,38 @@
+body {
+    background-color: #16202c;
+    max-width: 900px;
+    margin: auto;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: 'Helvetica';
+    color:white
+}
+
+h3 {
+    color: #a56ac1;
+    font-size: 28px
+}
+
+section p {
+    font-family: 'Source Sans Pro';
+    font-size: 18px;
+    color: white;
+}
+
+/* unvisited link */
+a:link {
+    color: #7fd2f9;
+}
+
+/* mouse over link */
+a:hover {
+    color: #a56ac1;
+}
+
+.gryffinphoto, .stage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
